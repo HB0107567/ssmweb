@@ -98,7 +98,7 @@ public class UserController {
     }
     
     /**
-     * 组合天气预报数据
+     * 组合天气预报业务数据封装组合
      * @param object
      * @return
      */
